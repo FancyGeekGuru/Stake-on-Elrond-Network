@@ -1,0 +1,8 @@
+{
+    "*": {
+        "address-devnet": "erd1qqqqqqqqqqqqqpgqcja9ztta7rupndz2dw6caejqwfn7g2e2j9qst0ppns",
+        "address-dice-mainnet": "erd1qqqqqqqqqqqqqpgqgjlyl8a69yqaryclef90f0kder9nqclpdfysy6pp4j",
+        "address-bbl-mainnet": "erd1qqqqqqqqqqqqqpgqqj9qd3ghd55tqra3e942sv2kx7r4f4wpdfyswge90n",
+        "address-ctp-mainnet": "erd1qqqqqqqqqqqqqpgq4g3sulet2wwxkh3tu9qr4zpgedck8ewmdfysv503x7"
+    }
+}
